@@ -8,7 +8,13 @@
     "features": [
         "mega-menu",
         "fonts",
-        "color",
+        "colors": {
+  "primary_color": "#FFF5F2",
+  "secondary_color": "#FFCCDE",
+  "accent_color": "#000000",
+  "background_color": "#FFF5F2"
+}
+
         "breadcrumb",
         "unite-cards-height",
         "component-featured-products",
